@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
+title: About No Brakes
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+No Brakes is a gamer, and newbie programmer.  He's currently spending his free time learning fundamentals and basics of every programming language he can find.  And if he's not doing that you can expect him to be playing a video game, or a Mud, or some other gaming entertainment.
