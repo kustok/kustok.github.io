@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About No Brakes
+title: About
 permalink: /about/
 ---
 
